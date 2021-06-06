@@ -1,1 +1,1 @@
-alert("Teste");
+alert("Bem vindo(a) ao SEARCH MOVIES");
